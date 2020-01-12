@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1521990917 source:d:\a file tri\pap\pap4\main.c
+	"header.h"
+
+1521989937 d:\a file tri\pap\pap4\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1521990859 source:d:\a file tri\pap\pap4\fungsi.c
+	"header.h"
+
+1521990918 source:g:\alpro\pap4\main.c
+	"header.h"
+
+1521989938 g:\alpro\pap4\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1521993166 source:g:\alpro\pap4\fungsi.c
+	"header.h"
+
+1521990918 source:e:\alpro\pap4\main.c
+	"header.h"
+
+1521989938 e:\alpro\pap4\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1522073602 source:e:\alpro\pap4\fungsi.c
+	"header.h"
+
+1522073602 source:f:\alpro\pap4\fungsi.c
+	"header.h"
+
+1521989938 f:\alpro\pap4\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1522136872 source:f:\alpro\pap4\main.c
+	"header.h"
+
